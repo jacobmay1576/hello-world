@@ -1,0 +1,91 @@
+FOR PYTHON 2.7 NOT PYTHON 3
+
+
+#comment
+"""comment"""
+
+print "thisissometext"
+
+tab = 4 spaces
+not before and before or
+
+def function_name(variable, variable2):
+	fucntion stuff with variable
+
+
+function_name(variable_input, variable2_input)
+
+
+variable = raw_input('User generated input: ')
+
+
+/ divide
+% remainder
+* multiply
+** exponent
+= set equal
+== is equal
+!= not equal
+> greater
+< less
+>= greater/equal
+<= less/equal
+
+variable.isalpha():	makes sure variable is only letters
+variable.lower():	makes variable lowercase
+variable.upper():	makes variable uppercase
+len(variable):		length of variable
+abs(variable):		distance from zero
+min(*variable):		largest number in list
+max(*variable):		smallest number from list
+
+
+variable[0:2]		only the first 3 characters of variable
+
+
+
+
+def function(n):
+  return n + 1
+    
+def different_function(n):
+  return function(n) + 2             Recursive function
+
+
+return give the functions evaluation the function value
+
+
+
+def function(variable):
+    if variable == True:
+        do something with variable
+    elif variable == False:
+        do something else
+    else:
+        return 0
+
+import math
+print math.sqrt(25)		import function once
+			    	pip is a program to manage python imports. Some modules built in, some need to be added.
+
+from math import sqrt 		import specific function from module
+sqrt(25)
+
+from math import *		import all from module
+
+dir(math)			makes list of functions in module
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
